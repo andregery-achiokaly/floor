@@ -25,6 +25,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/guideline"
         android:orientation="horizontal"
-        app:layout_constraintGuide_end="367dp" />
+        app:layout_constraintGuide_end="236dp" />
 
 </android.support.constraint.ConstraintLayout>
